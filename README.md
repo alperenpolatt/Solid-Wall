@@ -1,2 +1,2 @@
 # Solid-Wall
- This is a game.
+The main character leaves his bricks where you touch on the screen so the character can guarantee himself against red balls,enemies. The mission of  bricks are to protect  the main character against red balls. Red balls start to fall from top to down. The main character strenghtens his bricks to increase the power of bricks. When bricks meet with red balls, one of them, that has more power, wins. If one of red balls reaches the main character, game is over.
